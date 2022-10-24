@@ -40,6 +40,6 @@ working with branches
 
 
 
-This is master
+This is  not a master
 
 This is branch 2
